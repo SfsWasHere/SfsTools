@@ -1,1 +1,15 @@
+{
+	"Token": "token-here",
+	"Prefix": "x",
 
+	"Channel-Names": ["sfswashere", "sfswashere"], 
+	"Server-Names": ["sfswashere", "sfswashere"],
+	"Role-Names": ["sfswashere", "nuked by sfs"],
+	"Reason": ["sfswasheree", "nuked by sfs"],
+
+	"Spam": false,
+
+	"Webhook-Names": ["sfswashere", "nuked by sfs"],
+	"Spam-Messages": ["@everyone nuked by sfs", "@everyone sfswashere"],
+	"Spam-Amount": 900
+}
