@@ -1,4 +1,4 @@
-#THIS WAS MADE BY SFS & DAIN!
+#THIS WAS MADE BY: SFSFSFSFSFSFS
 import asyncio
 import datetime
 import functools
