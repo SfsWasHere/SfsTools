@@ -391,4 +391,9 @@ async def servername(ctx, *, name):
 @Homicide.command()
 async def prefix(ctx, prefix):
     await ctx.message.delete()
-    Homicide.command_prefix = str(prefix)			   
+    Homicide.command_prefix = str(prefix)	
+			
+@Homicide.command(aliases=["logout"])
+async def shutdown(ctx):
+    await ctx.message.delete()
+    await Homicide.logout()			
