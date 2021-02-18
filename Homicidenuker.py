@@ -31,7 +31,7 @@ from gtts import gTTS
 class NUKER():
     __version__=1
 
-
+hahc
 with open('config.json') as f:
     config = json.load(f)
 class SELFBOT():
