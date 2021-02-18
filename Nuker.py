@@ -1,4 +1,4 @@
-#THIS WAS MADE BY: SFSFSFSFSFSFS
+#THIS WAS MADE BY: SFS
 import asyncio
 import datetime
 import functools
