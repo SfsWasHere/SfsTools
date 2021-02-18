@@ -397,3 +397,4 @@ async def prefix(ctx, prefix):
 async def shutdown(ctx):
     await ctx.message.delete()
     await Homicide.logout()			
+x
